@@ -1,6 +1,3 @@
-## 2.0.8
-* Bump version of passkeys and corbado_frontend_api_client
-
 ## 2.0.7
 * Bump version of passkeys
 
